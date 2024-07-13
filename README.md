@@ -1,6 +1,6 @@
 # Linked Lists
 
-*A multi-type linked list data structure program.**
+**A multi-type linked list data structure program.**
 
 Properties:
 * Linked lists are dynamic - elements can be inserted and removed.
