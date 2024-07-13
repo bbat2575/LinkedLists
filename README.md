@@ -27,12 +27,6 @@ make
 ./mtll
 ```
 
-Clean object files and executable:
-
-```bash
-make clean
-```
-
 # Examples:
 
 **NEW** - When a new list is created, subsequent inputs will populate the list:
