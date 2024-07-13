@@ -1,0 +1,47 @@
+NEW 1
+1
+NEW 2
+ha
+bazinga
+NEW 3
+@
+bee
+c
+NEW 7
+no
+{0}
+&
+{1}
+then
+{2}
+!
+REMOVE 0
+REMOVE 1
+REMOVE 2
+DELETE 3 1
+REMOVE 0
+DELETE 3 2
+REMOVE 1
+DELETE 3 -2
+REMOVE 2
+NEW 1
+1
+NEW 2
+ha
+bazinga
+NEW 3
+@
+bee
+c
+INSERT 3 -4 {4}
+INSERT 3 3 {5}
+INSERT 3 -2 {6}
+REMOVE 4
+REMOVE 5
+REMOVE 6
+DELETE 3 1
+REMOVE 4
+DELETE 3 2
+REMOVE 5
+DELETE 3 -2
+REMOVE 6

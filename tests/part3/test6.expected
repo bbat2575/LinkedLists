@@ -1,0 +1,55 @@
+
+Type HELP for a list of options
+Press <CTRL + D> to Quit
+
+> List 0: 1
+
+> List 1: 2
+
+> Nested 1: {List 0} -> 2
+
+> {1} -> 2
+
+> reference -> int
+
+> List 2: 1 -> 2.20 -> $ -> bazinga
+
+> 1 -> 2.20 -> $ -> bazinga
+
+> int -> float -> char -> string
+
+> Nested 2: 1 -> 2.20 -> $ -> bazinga -> {List 0}
+
+> Nested 2: 1 -> 2.20 -> $ -> bazinga -> {List 0} -> {List 0}
+
+> Nested 2: {List 0} -> 1 -> 2.20 -> $ -> bazinga -> {List 0} -> {List 0}
+
+> Nested 2: {List 0} -> {List 0} -> 1 -> 2.20 -> $ -> bazinga -> {List 0} -> {List 0}
+
+> {1} -> {1} -> 1 -> 2.20 -> $ -> bazinga -> {1} -> {1}
+
+> reference -> reference -> int -> float -> char -> string -> reference -> reference
+
+> List 3: 1 -> 2.20 -> $ -> bazinga -> this -> is -> a -> long -> list -> .
+
+> List 4: 1
+
+> Nested 4: {List 3} -> 1
+
+> Nested 4: {List 3} -> 1 -> {List 3}
+
+> Nested 4: {List 3} -> {List 3} -> 1 -> {List 3}
+
+> Nested 4: {List 3} -> {List 3} -> 1 -> {List 3} -> {List 3}
+
+> Nested 4: {List 3} -> {List 0} -> {List 3} -> 1 -> {List 3} -> {List 3}
+
+> Nested 4: {List 3} -> {List 0} -> {List 3} -> 1 -> {List 3} -> {List 0} -> {List 3}
+
+> Nested 4: {List 3} -> {List 0} -> {List 3} -> {List 0} -> 1 -> {List 3} -> {List 0} -> {List 3}
+
+> {1 -> 2.20 -> $ -> bazinga -> this -> is -> a -> long -> list -> .} -> {1} -> {1 -> 2.20 -> $ -> bazinga -> this -> is -> a -> long -> list -> .} -> {1} -> 1 -> {1 -> 2.20 -> $ -> bazinga -> this -> is -> a -> long -> list -> .} -> {1} -> {1 -> 2.20 -> $ -> bazinga -> this -> is -> a -> long -> list -> .}
+
+> reference -> reference -> reference -> reference -> int -> reference -> reference -> reference
+
+> 

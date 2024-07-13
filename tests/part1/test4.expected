@@ -1,0 +1,25 @@
+
+Type HELP for a list of options
+Press <CTRL + D> to Quit
+
+> List 0: 1 -> 2.20 -> c -> hello
+
+> int -> float -> char -> string
+
+> List 1: 1 -> 10 -> 1 -> 1000000000 -> -1 -> 0 -> 0 -> -999999999 -> 999999999
+
+> int -> int -> int -> int -> int -> int -> int -> int -> int
+
+> List 2: 0.00 -> 0.00 -> 0.00 -> 0.20 -> 0.20 -> 2.00 -> 2.00 -> 1.23 -> 123456792.00 -> -5.65 -> 6.56 -> 2..2 -> .2.2 -> 2.2. -> 0.20 -> 2.00 -> 0.00 -> 0.00
+
+> float -> float -> float -> float -> float -> float -> float -> float -> float -> float -> float -> string -> string -> string -> float -> float -> float -> float
+
+> List 3: a -> b -> c -> ~ -> ` -> ! -> @ -> # -> $ -> % -> ^ -> & -> * -> [ -> \
+
+> char -> char -> char -> char -> char -> char -> char -> char -> char -> char -> char -> char -> char -> char -> char
+
+> List 4: 99 -> 99 -> 9.90 -> 9.90 -> $                                                                                                                               ->                                                                                                                               $ -> Once upon a tiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiime
+
+> int -> int -> float -> float -> string -> string -> string
+
+> 

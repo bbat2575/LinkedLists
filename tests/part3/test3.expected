@@ -1,0 +1,23 @@
+
+Type HELP for a list of options
+Press <CTRL + D> to Quit
+
+> List 0: 
+
+> Nested 1: {List 0}
+
+> Nested 2: $ -> {List 0} -> 3
+
+> INVALID COMMAND: NEW
+
+> INVALID COMMAND: NEW
+
+> INVALID COMMAND: NEW
+
+> INVALID COMMAND: NEW
+
+> INVALID COMMAND: NEW
+
+> INVALID COMMAND: NEW
+
+> 

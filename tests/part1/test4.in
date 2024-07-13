@@ -1,0 +1,63 @@
+NEW 4
+1
+2.2
+c
+hello
+TYPE 0
+NEW 9
+01
+10
+0000000001
+1000000000
+-1
+-0
+0000000000
+-999999999
++999999999
+TYPE 1
+NEW 18
+.0
+0.
+0.0
+.2
+0.2
+2.
+2.0
+1.23456789
+123456789.9
+-5.65
++6.56
+2..2
+.2.2
+2.2.
+.2
+2.
+0.
+.0
+TYPE 2
+NEW 15
+a
+b
+c
+~
+`
+!
+@
+#
+$
+%
+^
+&
+*
+[
+\
+TYPE 3
+NEW 7
+99                                                                                                                             
+                                                                                                                             99
+9.9                                                                                                                            
+                                                                                                                            9.9
+$                                                                                                                              
+                                                                                                                              $
+Once upon a tiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiime
+TYPE 4

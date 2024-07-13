@@ -1,0 +1,29 @@
+
+Type HELP for a list of options
+Press <CTRL + D> to Quit
+
+> List 0: 2.00 -> 20.00 -> 200.00 -> 200000.00 -> 20000000000.00
+
+> float -> float -> float -> float -> float
+
+> List 1: 2.00 -> 20.00 -> 200.00 -> 200000.00 -> 20000000000.00
+
+> float -> float -> float -> float -> float
+
+> List 2: 2.00 -> 0.20 -> 0.02 -> 0.00 -> 0.00
+
+> float -> float -> float -> float -> float
+
+> List 3: 2.00 -> 200.00 -> -2.00 -> -200.00 -> 0.20 -> -20.00
+
+> float -> float -> float -> float -> float -> float
+
+> List 4: 2.00 -> 200.00 -> 2.00 -> 200.00 -> 2.00 -> -200.00 -> 0.02 -> -2.00
+
+> float -> float -> float -> float -> float -> float -> float -> float
+
+> List 5: e -> E -> eE -> 0.00 -> 0.00 -> 0.00 -> 2.00 -> 2.00 -> 2.00 -> 2.00 -> -2.00 -> 2ee -> ee2 -> 2ee2 -> e2e
+
+> char -> char -> string -> float -> float -> float -> float -> float -> float -> float -> float -> string -> string -> string -> string
+
+> 

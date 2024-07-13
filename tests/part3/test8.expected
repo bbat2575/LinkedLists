@@ -1,0 +1,37 @@
+
+Type HELP for a list of options
+Press <CTRL + D> to Quit
+
+> List 0: 
+
+> List 1: 
+
+> List 2: 
+
+> Nested 3: {List 0} -> {List 1} -> {List 2}
+
+> List 4: cowabunga dude!
+
+> INVALID COMMAND: INSERT
+
+> List 3: {List 1} -> {List 2}
+
+> Nested 0: {List 4}
+
+> INVALID COMMAND: INSERT
+
+> INVALID COMMAND: INSERT
+
+> List 3: {List 1}
+
+> List 3: 
+
+> Nested 2: {List 1}
+
+> Nested 2: {List 4} -> {List 1}
+
+> {cowabunga dude!} -> {}
+
+> reference -> reference
+
+> 

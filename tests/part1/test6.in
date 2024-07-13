@@ -1,0 +1,56 @@
+NEW 5
+2e0
+2E1
+2e2
+2E5
+2e10
+TYPE 0
+NEW 5
+2E+0
+2e+1
+2E+2
+2e+5
+2E+10
+TYPE 1
+NEW 5
+2E-0
+2e-1
+2E-2
+2e-5
+2E-10
+TYPE 2
+NEW 6
++2e0
++2e2
+-2e0
+-2e2
++2e-1
+-2e+1
+TYPE 3
+NEW 8
+2e0000
+0002e2
+2e+0000
++0002e2
+2e-0000
+-0002e2
++0002e-2
+-2e+0000
+TYPE 4
+NEW 15 
+e
+E
+eE
+e0
+0e
+e2
+2e
+2e+
+2e-
++2e
+-2e
+2ee
+ee2
+2ee2
+e2e
+TYPE 5

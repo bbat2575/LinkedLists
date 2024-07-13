@@ -1,0 +1,80 @@
+
+Type HELP for a list of options
+Press <CTRL + D> to Quit
+
+> List 0: 1
+
+> List 0: 1 -> 2
+
+> List 0: 1 -> 2 -> 3
+
+> List 0: 1 -> + -> 2 -> 3
+
+> List 0: 1 -> + -> 2 -> = -> 3
+
+> int -> char -> int -> char -> int
+
+> List 1: 
+
+> List 1: Once
+
+> List 1: Once -> a
+
+> List 1: Once -> a -> time
+
+> List 1: Once -> upon -> a -> time
+
+> List 1: Once -> upon -> a -> time -> ...
+
+> string -> string -> char -> string -> string
+
+> List 2: 
+
+> List 2: 22.22
+
+> List 2: 20000.00 -> 22.22
+
+> List 2: 20000.00 -> 22.22 -> 0.10
+
+> List 2: 20000.00 -> 22.22 -> 0.10 -> 0.00
+
+> float -> float -> float -> float
+
+> List 3: 
+
+> List 3: 
+
+> List 3:   -> 
+
+> List 3:    ->   -> 
+
+> List 3:     ->    ->   -> 
+
+> string -> string -> char -> string
+
+> List 4: 
+
+> List 4: 99
+
+> List 4: 99 -> 99
+
+> List 4: 99 -> 99 -> 9.90
+
+> List 4: 99 -> 99 -> 9.90 -> 9.90
+
+> List 4: 99 -> 99 -> 9.90 -> 9.90 -> $                                                                                                                  
+
+> List 4: 99 -> 99 -> 9.90 -> 9.90 -> $                                                                                                                   ->                                                                                                                   $
+
+> List 4: 99 -> 99 -> 9.90 -> 9.90 -> $                                                                                                                   ->                                                                                                                   $ -> Once upon a tiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiime
+
+> int -> int -> float -> float -> string -> string -> string
+
+> Number of lists: 5
+List 0
+List 1
+List 2
+List 3
+List 4
+
+> 

@@ -1,0 +1,45 @@
+
+Type HELP for a list of options
+Press <CTRL + D> to Quit
+
+> List 0: 1
+
+> List 1: 2
+
+> Nested 1: {List 0} -> 2
+
+> List 2: 1 -> 2.20 -> $ -> bazinga
+
+> 1 -> 2.20 -> $ -> bazinga
+
+> int -> float -> char -> string
+
+> INVALID COMMAND: INSERT
+
+> INVALID COMMAND: INSERT
+
+> INVALID COMMAND: INSERT
+
+> INVALID COMMAND: INSERT
+
+> 1 -> 2.20 -> $ -> bazinga
+
+> int -> float -> char -> string
+
+> INVALID COMMAND: INSERT
+
+> List 3: 1
+
+> INVALID COMMAND: INSERT
+
+> INVALID COMMAND: INSERT
+
+> INVALID COMMAND: INSERT
+
+> INVALID COMMAND: INSERT
+
+> 1
+
+> int
+
+> 

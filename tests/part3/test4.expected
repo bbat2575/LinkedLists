@@ -1,0 +1,58 @@
+
+Type HELP for a list of options
+Press <CTRL + D> to Quit
+
+> List 0: 
+
+> 
+> List 1: 1
+
+> List 2: 1 -> 2.20
+
+> List 3: @ -> one -> two
+
+> @ -> one -> two
+
+> Nested 4: {List 0} -> 1 -> 2
+
+> {} -> 1 -> 2
+
+> List 0: that's what she said!
+
+> {that's what she said!} -> 1 -> 2
+
+> List 0: that's what she said! -> q-_-p
+
+> {that's what she said! -> q-_-p} -> 1 -> 2
+
+> Nested 5: {List 0} -> 1 -> {List 2}
+
+> {that's what she said! -> q-_-p} -> 1 -> {1 -> 2.20}
+
+> List 2: 1
+
+> {that's what she said! -> q-_-p} -> 1 -> {1}
+
+> Nested 6: {List 0} -> {List 1} -> {List 2}
+
+> {that's what she said! -> q-_-p} -> {1} -> {1}
+
+> List 1: 1 -> 2.20
+
+> {that's what she said! -> q-_-p} -> {1 -> 2.20} -> {1}
+
+> Nested 7: {List 0} -> 2000000.00 -> {List 1} -> hmm -> {List 2} -> #
+
+> {that's what she said! -> q-_-p} -> 2000000.00 -> {1 -> 2.20} -> hmm -> {1} -> #
+
+> Number of lists: 8
+List 0
+List 1
+List 2
+List 3
+Nested 4
+Nested 5
+Nested 6
+Nested 7
+
+> 

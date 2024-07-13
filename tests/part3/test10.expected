@@ -1,0 +1,85 @@
+
+Type HELP for a list of options
+Press <CTRL + D> to Quit
+
+> List 0: 1
+
+> List 1: ha -> bazinga
+
+> List 2: @ -> bee -> c
+
+> Nested 3: no -> {List 0} -> & -> {List 1} -> then -> {List 2} -> !
+
+> INVALID COMMAND: REMOVE
+
+> INVALID COMMAND: REMOVE
+
+> INVALID COMMAND: REMOVE
+
+> List 3: no -> & -> {List 1} -> then -> {List 2} -> !
+
+> List 0 has been removed.
+
+Number of lists: 3
+List 1
+List 2
+Nested 3
+
+> List 3: no -> & -> then -> {List 2} -> !
+
+> List 1 has been removed.
+
+Number of lists: 2
+List 2
+Nested 3
+
+> List 3: no -> & -> then -> !
+
+> List 2 has been removed.
+
+Number of lists: 1
+List 3
+
+> List 4: 1
+
+> List 5: ha -> bazinga
+
+> List 6: @ -> bee -> c
+
+> Nested 3: no -> {List 4} -> & -> then -> !
+
+> Nested 3: no -> {List 4} -> & -> {List 5} -> then -> !
+
+> Nested 3: no -> {List 4} -> & -> {List 5} -> then -> {List 6} -> !
+
+> INVALID COMMAND: REMOVE
+
+> INVALID COMMAND: REMOVE
+
+> INVALID COMMAND: REMOVE
+
+> List 3: no -> & -> {List 5} -> then -> {List 6} -> !
+
+> List 4 has been removed.
+
+Number of lists: 3
+Nested 3
+List 5
+List 6
+
+> List 3: no -> & -> then -> {List 6} -> !
+
+> List 5 has been removed.
+
+Number of lists: 2
+Nested 3
+List 6
+
+> List 3: no -> & -> then -> !
+
+> List 6 has been removed.
+
+Number of lists: 1
+List 3
+
+> 

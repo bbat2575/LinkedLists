@@ -1,0 +1,35 @@
+
+Type HELP for a list of options
+Press <CTRL + D> to Quit
+
+> List 0: 1 -> 2.20 -> E -> Four
+
+> 1 -> 2.20 -> E -> Four
+
+> int -> float -> char -> string
+
+> List 1: One -> $ -> 3.00 -> 4
+
+> One -> $ -> 3.00 -> 4
+
+> string -> char -> float -> int
+
+> Number of lists: 2
+List 0
+List 1
+
+> List 0 has been removed.
+
+Number of lists: 1
+List 1
+
+> Number of lists: 1
+List 1
+
+> List 1 has been removed.
+
+Number of lists: 0
+
+> Number of lists: 0
+
+> 

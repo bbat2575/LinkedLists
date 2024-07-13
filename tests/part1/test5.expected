@@ -1,0 +1,19 @@
+
+Type HELP for a list of options
+Press <CTRL + D> to Quit
+
+> List 0:  ->   ->    ->     -> TYPE 0
+
+> List 1: 1 -> 1 -> 0 -> 0 -> 0
+
+> int -> int -> int -> int -> int
+
+> List 2: 2.20 -> 2.20 -> 2.00 -> 2.00 -> -2.00 -> 2.00 -> 0.00 -> 0.00 -> 2.20
+
+> float -> float -> float -> float -> float -> float -> float -> float -> float
+
+> List 3:  a ->   a -> a  -> a   -> hell o  o   o    o     o     o    o   o  t here
+
+> string -> string -> string -> string -> string
+
+> 

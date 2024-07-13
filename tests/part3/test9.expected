@@ -1,0 +1,31 @@
+
+Type HELP for a list of options
+Press <CTRL + D> to Quit
+
+> List 0: 1
+
+> List 1: ha -> bazinga
+
+> List 2: @ -> bee -> c
+
+> Nested 3: no -> {List 0} -> & -> {List 1} -> then -> {List 2} -> !
+
+> List 3: no -> & -> {List 1} -> then -> {List 2} -> !
+
+> List 3: no -> & -> {List 1} -> then -> !
+
+> List 3: no -> & -> then -> !
+
+> Nested 3: no -> {List 0} -> & -> then -> !
+
+> Nested 3: no -> {List 0} -> & -> then -> {List 2} -> !
+
+> Nested 3: no -> {List 0} -> & -> {List 1} -> then -> {List 2} -> !
+
+> List 3: no -> & -> {List 1} -> then -> {List 2} -> !
+
+> List 3: no -> & -> {List 1} -> then -> !
+
+> List 3: no -> & -> then -> !
+
+> 

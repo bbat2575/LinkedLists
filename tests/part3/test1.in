@@ -1,0 +1,37 @@
+NEW 0
+NEW 1
+1
+NEW 2
+1
+2.2
+NEW 3
+@
+one
+two
+NEW 3
+{0}
+1
+2
+VIEW 4
+TYPE 4
+NEW 3
+{0}
+1
+{2}
+VIEW 5
+TYPE 5
+NEW 3
+{0}
+{1}
+{2}
+VIEW 6
+TYPE 6
+NEW 6
+{0}
+2e6
+{1}
+hmm
+{2}
+#
+VIEW 7
+TYPE 7
