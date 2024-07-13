@@ -35,7 +35,7 @@ make clean
 
 # Examples:
 
-NEW - When a new list is created, subsequent inputs will populate the list:
+**NEW** - When a new list is created, subsequent inputs will populate the list:
 
 ```bash
 > NEW 4
@@ -52,7 +52,7 @@ List 0: 32 -> 6.40 -> a -> hello
 int -> float -> char -> string
 ```
 
-NEW w/ Nested:
+**NEW w/ Nested**:
 
 ```bash
 > NEW 2
@@ -92,7 +92,7 @@ List 0 has been removed.
 Number of lists: 0
 ```
 
-INSERT & DELETE:
+**INSERT & DELETE**:
 
 ```bash
 > NEW 2
