@@ -1,6 +1,6 @@
-# Description
+# Linked Lists
 
-A multi-type linked list data structure program.
+*A multi-type linked list data structure program.**
 
 Properties:
 * Linked lists are dynamic - elements can be inserted and removed.
@@ -18,7 +18,7 @@ The program contains the following functionalities:
 1. REMOVE [list index] - remove a list
 1. Press <CTRL + D> to Quit
 
-# How To Run
+## How To Run
 
 Compile binary and execute:
 
@@ -27,7 +27,7 @@ make
 ./mtll
 ```
 
-# Examples
+## Examples
 
 **NEW** - When a new list is created, subsequent inputs will populate the list:
 
@@ -104,7 +104,7 @@ List 0: 0 -> 1 -> 2 -> 3
 List 0: 1 -> 2 -> 3
 ```
 
-# How To Run Tests
+## How To Run Tests
 
 Simply execute the testing script.
 
