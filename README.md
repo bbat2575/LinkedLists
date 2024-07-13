@@ -18,7 +18,7 @@ The program contains the following functionalities:
 1. REMOVE [list index] - remove a list
 1. Press <CTRL + D> to Quit
 
-# How To Run:
+# How To Run
 
 Compile binary and execute:
 
@@ -27,7 +27,7 @@ make
 ./mtll
 ```
 
-# Examples:
+# Examples
 
 **NEW** - When a new list is created, subsequent inputs will populate the list:
 
